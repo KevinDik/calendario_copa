@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript e JSON
-- [Node e NPM](https://nodejs.org/)
+- [Node](https://nodejs.org/)
 
 ## 💻 Projeto
 
